@@ -18,19 +18,19 @@ The idea is to build a proof of concept using **Pebble Tracker**, that would lev
 
 The iotex project is laying the foundations for exciting and innovative applications of the blockchain and verifiable data for the IoT. Yet as all frontier technologies, the creation of prototypes is necessary to verify the real "usability" of the technology for the users, especially when it involves **interaction with the real world**.
 
-The process of clearing insurance premiums in agriculture today suffers from a huge trust gap as it is not only expensive but **not objective** and subject to **frauds**. 
+The process of clearing insurance premiums in agriculture today suffers from a huge **trust gap** as it is not only expensive but **not objective** and subject to **frauds**. 
 
 This propotype will demonstrate how the use of Pebble Tracker devices can really lead to the solution of this type of problems, in a **win-win** fashion for all the parties involved. Specifically, it will show:
 
 - How Pebble Tracker can be easily installed in a real use case
 - The "flow" of the verifiable data from Pebble -> Backend server -> Smart contract
 - How the verification of the insured event in the real world will trigger a payment on the IoTeX Blockchain
-- [ Optional ] Professional vide-documentation of the installation and "event simulation"
+- [ Optional ] Professional video-documentation of the installation and "event simulation"
 
 
 ## Deliverables
 
-We will deliver a fully working PoC that implements an example of a simple (yet effective) architecture where a **Pebble Tracker is installed** and **operated** nearby a crop of wine grape, and will transmit verifiable data through an IoT backend to the IoTeX blockchain, contract where an **Insurance Contract** will manage the payment in the case of a specific "weather event". While the concept of "Verifiable IoT Data" is easily expandable to any type of sensor, in this prototype we only include the "Frost" event using the temperature and humidity sensor integrated on Pebble tracker.
+We will deliver a fully working PoC that implements an example of a simple (yet effective) architecture where a **Pebble Tracker is installed** and **operated** nearby a Olive Trees, and will transmit verifiable data through an IoT backend to the IoTeX blockchain, contract where an **Insurance Contract** will manage the payment in the case of a specific "Bad weather event". While the concept of "Verifiable IoT Data" is easily expandable to any type of sensor, in this prototype we only include the "Frost" event using the temperature and humidity sensor integrated on Pebble tracker.
 
 ## Development Roadmap
 
@@ -40,23 +40,24 @@ Please break up your development work into a clear set of milestones. This secti
 Milestones          | Details                         | Manpower            | Duration   | Funding (IOTX)  |
 ___________________________________________________________________________________________________________
 1.Projecty design   | - Idea and concept details doc  | 1x (project leader) | 2 weeks     | 200k IOTX.     |
-                    | - Technical/Functionsl docs     |                     |             |                |
-                    | - Smart contract design and fun |                     |             |                |
-                    |   ctional model.                |                     |             |                |
+                    | - Technical/Functionals docs    | 1x (Developer)      |             |                |
+                    | - Smart contract design and     |                     |             |                |
+                    |   functional model.             |                     |             |                |
                     |                                 |                     |             |                |
-2.Development       | - Developemnt of the s-contract | 1x (Developer)      | 12 weeks    | 300k IOTX      |
+2.Development       | - Developement of the smart     | 1x (Developer)      |             |                |
+                    |   contract                      |                     | 12 weeks    | 300k IOTX      |
                     | - Development of the data relay |                     |             |                |
                     | - Installation of the backend   |                     |             |                |                    
                     | - Tests.                        |                     |             |                |
                     |                                 |                     |             |                |
 3.Installation      | - Design and realization of a   | 1x (project leader) | 8 weeks     | 300k IOTX      |
-                    |   suitable case for outdoor.    |                     |             |                |
+                    |   suitable whaterproof case     | 1x (Developer)      |             |                |
                     | - Arrangement and connection to |                     |             |                |
                     |   the power supply.             |                     |             |                |
                     | - Integration with the backend  |                     |             |                |
                     |                                 |                     |             |                |
 4.Simulation & Main | - End-to-End integration        | 1x (project leader) |12 weeks     | 200k           |
-tenance             | - Creation of insurance contract|                     |             |                |
+tenance             | - Creation of insurance contract| 1x (Developer)      |             |                |
                     | - Real world event simulation   |                     |             |                |
                     | - Monitoring and ensuring opera |                     |             |                |
                     |   tion along the period with    |                     |             |                |
@@ -71,7 +72,7 @@ tenance             | - Creation of insurance contract|                     |   
 
 Total budget requested: 
  - 1,000,000 IOTX (100% of the fund will be spent on human resource)
- - Optional 200k IOTX for third-party marketing service.
+ - Optional 200,000 IOTX for third-party marketing service.
 
 ## Maintenance and Upgrade Plans
 
@@ -91,10 +92,10 @@ N/A
 ## Relevant Experience
 
 **Firefox_IT**
-I am Crypto Enthusiast, a farmer and I’ve been a client of this type of insurance for 20 years. I know the parameters and algorithms on which they are based for the calculations. IOT Maker
+I am dental surgeon, Owner of Family Farm and also a Crypto Enthusiast. I’ve been a client of this type of insurance for 20 years. I know the parameters and algorithms on which they are based for the calculations, IOT Maker. 
 
 **TheHologramX**
-Computer Science Teacher at High School, Programmer, IT_Admin, NET_Admin, Security_Admin, Crypto Enthusiast, IOT Maker, Solidity developer
+Computer Science Teacher at High School, Programmer Various Languages, IT_Admin, NET_Admin, Security_Admin, Crypto Enthusiast, IOT Maker and Programmer, Solidity developer
 
 
 ## Team code repositories
