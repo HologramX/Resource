@@ -47,7 +47,8 @@ ________________________________________________________________________________
 2.Development       | - Developement of the smart     | 1x (Developer)      |             |                |
                     |   contract                      |                     | 12 weeks    | 300k IOTX      |
                     | - Development of the data relay |                     |             |                |
-                    | - Installation of the backend   |                     |             |                |                    
+                    | - Installation of the pebble    |                     |             |                |
+                    |   backend|                      |                     |             |                |                    
                     | - Tests.                        |                     |             |                |
                     |                                 |                     |             |                |
 3.Installation      | - Design and realization of a   | 1x (project leader) | 8 weeks     | 300k IOTX      |
